@@ -3,7 +3,7 @@
 This project utilizes **3 years of daily closing price data** for a financial asset to calculate technical indicators and predict market trends. Below are the details of the dataset and its usage:
 
 ### Data Source
-- The historical price data was obtained from platforms like [Yahoo Finance](https://finance.yahoo.com) or similar financial APIs.
+- The historical price data was obtained from platforms like [Yahoo Finance](https://finance.yahoo.com) .
 - Covers the period: **January 2021 - December 2023**.
 
 ### Data Features
